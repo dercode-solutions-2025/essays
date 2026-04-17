@@ -7,4 +7,34 @@ This essay covers a series of events from 1940-2000. It covers each decade indiv
 
 --1940's--
 
-1940 - The Z2 computer is built by Konrad Zuse. It was a mechanical, relay-based machine that replaced the arithmetic logic from the original Z1 (which Zuse had built in his parent's home) with 600 relay circuits, weighing over 600lbs. (~272kgs.)
+1940 - The Z2 computer is built by Konrad Zuse.
+It was a mechanical, relay-based machine that replaced the arithmetic logic from the original Z1 (which Zuse had built in his parent's home) with 600 relay circuits, weighing over 600lbs. (~272kgs.)
+[SOURCE: https://en.wikipedia.org/wiki/Z2_(computer)]
+
+1941 - Konrad Zuse builds the Z3, a electromagnetical, programmable, machine that pioneered modern computer science features, such as floating-point numbers.
+It had ~2000 relays and a 22-bit word length.
+The Z3 had a clock frequency of around 5-10hz.
+Additionally, ZuseKG was founded in Berlin, with the sole purpose of making computers.
+[SOURCE: https://en.wikipedia.org/wiki/Computer]
+
+1942 - John Mauchly, a physicist attending Moore School, proposes a general-purpose electronic computer.
+Lieutenant Herman Goldstine, the liasion between the Army and Moore School, asks Mauchly to make a formal proposal for the first edition of the ENIAC (Electronic Numerical Integrator and Computer).
+Additionally, the Z4 is built in Berlin, though partially.
+
+[SOURCES: https://en.wikipedia.org/wiki/John_Mauchly AND https://en.wikipedia.org/wiki/Z4_(computer)]
+
+1943 - In April, the Army contracted Moore School to start building the ENIAC, with John Mauchly leading the conceptual design.
+It was confidential, under the name "Project PX".
+Because of the ENIAC, John Mauchley, in 2002, was inducted into the National Inventors Hall Of Fame.
+The ENIAC was capable of extremely fast calculations, and solving equations which had not been solved before.
+It could do arithmetic, square rooting, I/O functions, conditional branches, etc.
+
+[SOURCE: https://en.wikipedia.org/wiki/John_Mauchly]
+
+1944 - John Mauchley and J. Presper Eckert, a graduate of Moore School, begin plans for a second computer called the EDVAC.
+John von Neumann, a contributor to the Manhattan Project, creates the ASCC, the first programmable computer in the USA.
+It was also called the Harvard Mark I.
+
+[SOURCES: https://en.wikipedia.org/wiki/John_Mauchly AND https://en.wikipedia.org/wiki/Harvard_Mark_I]
+
+1945 - Konrad Zuse starts working on Plankankul
