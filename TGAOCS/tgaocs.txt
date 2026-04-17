@@ -1,0 +1,10 @@
+--THE GOLDEN AGE OF COMPUTER SCIENCE--
+
+--INTRODUCTION--
+
+This essay covers a series of events from 1940-2000. It covers each decade individually and its impact on modern computers.
+
+
+--1940's--
+
+1940 - The Z2 computer is built by Konrad Zuse. It was a mechanical, relay-based machine that replaced the arithmetic logic from the original Z1 (which Zuse had built in his parent's home) with 600 relay circuits, weighing over 600lbs. (~272kgs.)
