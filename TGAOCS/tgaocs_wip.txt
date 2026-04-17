@@ -37,4 +37,8 @@ It was also called the Harvard Mark I.
 
 [SOURCES: https://en.wikipedia.org/wiki/John_Mauchly AND https://en.wikipedia.org/wiki/Harvard_Mark_I]
 
-1945 - Konrad Zuse starts working on Plankankul
+1945 - Konrad Zuse starts working on Plankankul, the first algorithmich programming language.
+Additionally, the Eniac is finished.
+The first ENIAC program is written and run, on December 10th.
+
+[SOURCES: https://www.computerhistory.org/timeline/1945/ AND https://www.aps.org/apsnews/2022/11/eniac-first-top-secret-program]
